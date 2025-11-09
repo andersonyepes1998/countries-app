@@ -120,6 +120,17 @@ Cannot find module '*.vue'
 
 ---
 
+### Requisitos de Node.js
+Esta aplicación fue desarrollada utilizando Node.js versión 20.18.0.
+Por lo tanto, se recomienda ejecutar el proyecto usando Node 20.18.0 o una versión superior.
+
+```sh
+Verificar versión de Node:
+node -v
+```
+
+---
+
 ## Autor
 **Anderson Yepes Bedoya**  
 Desarrollador Front-End & UX/UI Designer
