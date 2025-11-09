@@ -121,5 +121,5 @@ Cannot find module '*.vue'
 ---
 
 ## Autor
-Anderson Yepes Bedoya
+**Anderson Yepes Bedoya**  
 Desarrollador Front-End & UX/UI Designer
